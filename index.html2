@@ -1,0 +1,151 @@
+<html>
+<title>
+Dr Nikolas Pontikos
+</title>
+
+<p>
+        Disclaimer the layout of this page sucks, i promise i will fix it when i've got more interesting things to say (or more time) ;)
+</p>
+
+<p>
+<iframe src="http://githubbadge.appspot.com/pontikos?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+</p>
+
+<p>
+<a href="https://uk.linkedin.com/pub/nikolas-pontikos/5/11a/401" style="text-decoration:none;"><span style="font: 80% Arial,sans-serif; color:#0783B6;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View Nikolas Pontikos's LinkedIn profile" style="vertical-align:middle;" border="0">&nbsp;View Nikolas Pontikos's profile</span></a>
+</p>
+
+I'm currently a postdoc at University College London working with <a href='http://plagnol-lab.blogspot.co.uk/'>Dr Vincent Plagnol</a> and collaborating with various groups interested in identifying variants in rare clinical phenotypes.
+Here is the current list of groups I'm working with:
+<p>
+Professor Tony Segal, based in the Raynes building, senior PI and clinician interested in neutrophil biology and inflammatory bowel disorder in which neutrophils play a key role.
+He is particularly interested in manifestations of the disease in the Ashkenazi Jewish population.
+</p>
+<p>
+Professor Alison Hardcastle at the Institute of Ophthalmology.
+</p>
+I did my Phd with <a href='http://chr1swallace.github.io/'>Dr Chris Wallace </a>.
+I worked on normalisation and clustering methods applied to flow cytometry datasets.
+I have written some software to analyse flow datasets which you can find on github.
+I also had the opportunity of working on some genetic data in particular I devised a technique for imputing the copy number of two KIR genes from SNP signals.
+You can find my thesis <a href="https://drive.google.com/open?id=0B2uxQDg1624kX1kxczhVZG0tOUk">here</a>.
+
+<h1>
+Publications
+</h1>
+
+<ul>
+        
+<li>
+Wallace C, Cutler AJ, Pontikos N, Pekalski ML, Burren OS, Cooper JD, García
+AR, Ferreira RC, Guo H, Walker NM, Smyth DJ, Rich SS, Onengut-Gumuscu S, Sawcer
+SJ, Ban M, Richardson S, Todd JA, Wicker LS. Dissection of a Complex Disease
+<b>
+Susceptibility Region Using a Bayesian Stochastic Search Approach to Fine
+Mapping.
+</b>
+<i>PLoS Genet.</i>
+2015 Jun 24;11(6):e1005272. doi:
+10.1371/journal.pgen.1005272. eCollection 2015 Jun. PubMed PMID: 26106896; PubMed
+Central PMCID: PMC4481316.
+</li>
+
+<li>
+Pontikos N, Smyth DJ, Schuilenburg H, Howson JM, Walker NM, Burren OS, Guo H, 
+Onengut-Gumuscu S, Chen WM, Concannon P, Rich SS, Jayaraman J, Jiang W, Traherne 
+JA, Trowsdale J, Todd JA, Wallace C.
+<b>A hybrid qPCR/SNP array approach allows cost
+efficient assessment of KIR gene copy numbers in large samples.
+</b>
+<i>
+BMC Genomics.
+</i>
+2014 Apr 11;15:274. doi: 10.1186/1471-2164-15-274. PubMed PMID: 24720548; PubMed 
+Central PMCID: PMC4029094.
+</li>
+
+<li>
+UniProt Consortium.
+<b>
+Reorganizing the protein space at the Universal Protein
+Resource (UniProt).
+</b>
+<i>
+Nucleic Acids Res.
+</i>
+2012 Jan;40(Database issue):D71-5. doi:
+10.1093/nar/gkr981. Epub 2011 Nov 18. PubMed PMID: 22102590; PubMed Central
+PMCID: PMC3245120.
+</li>
+
+<li>
+UniProt Consortium.
+<b>
+Ongoing and future developments at the Universal Protein
+Resource.
+</b>
+<i>
+Nucleic Acids Res.
+</i>
+2011 Jan;39(Database issue):D214-9. doi:
+10.1093/nar/gkq1020. Epub 2010 Nov 4. PubMed PMID: 21051339; PubMed Central
+PMCID: PMC3013648.
+</li>
+
+</ul>
+
+
+<h1>Software</h1>
+<p>
+Bioconductor package <a href='http://www.bioconductor.org/packages/devel/bioc/html/flowBeads.html'>flowBeads</a>,
+Look at the github repository for active development.
+</p>
+
+
+<h1>Background</h1>
+<ul>
+        <li>Postdoc, University College London, 2014-2016</li>
+        <li><a href="https://www-gene.cimr.cam.ac.uk/staff/nikolas/">PhD, University of Cambridge, 2011-2014</a></li>
+        <li><a href="http://www.uniprot.org">Uniprot software developer, European Bioinformatics Institute, 2009-2011</a></li>
+        <li><a href="http://www.bioinformatics.imperial.ac.uk/">MSci Bioinformatics, Imperial College, 2008-2009</a></li>
+        <li><a href="http://gambitresearch.com/">Software developer, Gambit Research, 2007-2008</a></li>
+        <li><a href="http://www.cs.ucl.ac.uk/">MEng Computer Science, University College London, 2003-2007</a></li>
+        <li><a href="http://www.lyceefrancais.org.uk/">Lycee Francais Charles de Gaulle, BAC Scientifique, 2003</a></li>
+</ul>
+       
+   
+<h1>Previous work</h1>
+
+I was a <a href="http://www.mrc.ac.uk/index.htm">MRC</a> funded PhD student (2011-2014) under the supervision of <a href="http://chr1swallace.github.io/">Dr Chris Wallace</a>
+from the <a href="https://www-gene.cimr.cam.ac.uk/staff/dilstats/">DIL stats group</a>, working on the analysis of Flow Cytometry data for immune-phenotype to genotype association studies in the context of Type 1 Diabetes.
+I was and am still interested in normalisation and clustering.
+Clusters may represent populations of cells such as in flow cytometry data, or different genotypes such as in SNP array or quantitative PCR data.
+However as the level of uncertainty, data quality (e.g signal-to-noise ratio) and prior knowledge (e.g expected number of clusters), differs greatly between experimental data sets,
+clustering needs to adopt a more probabilistic approach.
+One of the important aspects of my work was to allow for this uncertainty in assigning elements to clusters by giving probabilistic weights of cluster membership (a number between 0 and 1)
+instead of making binary calls (belongs or does not belong to cluster).  Model-based clustering (i.e. fitting a mixture of distributions) is particularly suited to this task.
+The uncertainty in the clustering can be taken into account when testing for genetic association with disease or other phenotypes of interest such as protein expression or cell frequency.
+
+<h5> Association of CD25 expression with IL2RA genotype </h5>
+<p>
+I started off my PhD by reanalysing, using computational methods (k-means, mixtures of univariate distributions), previous <a href="http://www.nature.com/ng/journal/v41/n9/full/ng.434.html">published data</a> to test the correlation between CD25 expression on naive and memory T cells with regulating SNPs in the IL2RA gene.
+I found that automatic methods were able to outdo manual methods by improving the reproducibility of the results and the strength of the correlation but did poorly when the data did not fit
+the prior assumptions (e.g. number of clusters larger than expected).  But this seeming weakness of the automatic method can be useful as it makes for an excellent outlier
+detection tool, capabale of spotting cases were the data does not fit the expected model.
+I summarised and presented some of my findings as a <a href="https://docs.google.com/file/d/0B2uxQDg1624kZURrYmpBUUdBVWc/edit?usp=sharing">poster (18-06-2012)</a> at the Cyto 2012 Conference in Leipzig.
+</p>
+
+<h5> Association of KIR3DL1/3DS1 with type 1 diabetes </h5>
+<p>
+Killer Immunoglobulin-like Receptors (KIR) play an important role in the innate immune system. Present on the surface of Natural Killer cells, KIRs mediate the fate of target cells based on the composite inhibiting/activating signal generated by binding to their HLA Class I ligands.
+Type 1 Diabetes (T1D) is an autoimmune disease known to be strongly associated with the HLA region, primarily with HLA Class II genes, but also with HLA Class I loci, such as HLA-Bw4/Bw6 epitope (P=6.57E-6 conditional on HLA Class II).        Of the 17 known KIR genes, KIR3DL1 is the only one known to interact biologically with HLA-Bw4, which makes it a suitable candidate gene for T1D. Furthermore, its activating counterpart, KIR3DS1, may also putatively interact with HLA-Bw4.
+We conducted a case-control study (816 cases: 813 controls) to assess whether there is evidence that copy number variation in KIR3DL1/3DS1 is associated with T1D.
+<a href="https://docs.google.com/file/d/0B2uxQDg1624keXFfbEN0NERVcVE/edit?usp=sharing">Poster (28-05-2013)</a> summarising work so far.
+Presented <a href="http://figshare.com/articles/COMPLEMENTING_QPCR_WITH_SNP_DATA_ACHIEVES_LARGE_SCALE_CASE_CONTROL_ANALYSIS_OF_KIR3DL1_S1_COPY_NUMBER_VARIATION_AND_REVEALS_NO_ASSOCIATION_IN_TYPE_1_DIABETES/797488">poster (07-09-2013)</a> at the Genomics of Common Disease 2013 in Oxford.
+Published in <a href="http://www.biomedcentral.com/1471-2164/15/274">BMC Genomics</a>.
+</p>
+
+
+
+
+</html>
